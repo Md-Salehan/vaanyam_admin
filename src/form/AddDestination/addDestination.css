@@ -1,0 +1,51 @@
+.add-destination-form{
+    width: 100%;
+    height: fit-content;
+
+}
+.fild{
+    margin-top: 15px !important;
+}
+.day-fild{
+    width: calc(50% - 7.5px) !important;
+    margin-right: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+.night-fild{
+    width: calc(50% - 7.5px) !important;
+    margin-bottom: 15px !important;
+
+}
+.multi-imgup-wp{
+    overflow: hidden;
+    width: 100%;
+    height: 330px;
+    display: flex;
+    padding: 15px;
+}
+.multi-img-wp{
+    width: 100%;
+    height: 330px;
+    overflow-x: scroll;
+    display: flex;
+    padding: 0px 15px 0px 0;
+    flex-direction: row-reverse;
+    margin-left: 15px;
+    /* flex-wrap: wrap; */
+}
+
+
+.selectfild div{
+    height: 50px !important;
+    font-size: 0.9rem !important;
+    
+}
+#outlined-select-currency{
+    box-sizing: border-box;
+    padding-top: 20px !important;
+}
+
+.selectfild span{
+    
+}
